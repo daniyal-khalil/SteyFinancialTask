@@ -100,7 +100,7 @@ class Trade extends React.Component{
         // Makes a interval list for the past 24 hours
         for (var i = 0; i < 24; i++) {
             if (hour+i < 24)
-                arr.push(hour+i+1)
+                arr.push(hour+i)
             else
                 arr.push(hour+i-24)
         }
