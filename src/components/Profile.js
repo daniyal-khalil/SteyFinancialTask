@@ -103,13 +103,13 @@ class Profile extends React.Component{
 
                                     {/* Card Body containing all the elements and personal information field */}
                                     <CardBody>
-                                        <h3><Badge color="light">Name:</Badge> <text style={{fontFamily:"Times New Roman", marginLeft:10}}>Daniyal Khalil </text></h3>
-                                        <h3><Badge color="light">Age:</Badge> <text style={{fontFamily:"Times New Roman", marginLeft:30}}> 21 </text></h3>
-                                        <h3><Badge color="light">Email:</Badge> <text style={{fontFamily:"Times New Roman", marginLeft:18}}> daniyalkhalil16@gmail.com </text></h3>
-                                        <h3><Badge color="light">County:</Badge> <text style={{fontFamily:"Times New Roman", marginLeft:18}}> Turkey </text></h3>
-                                        <h3><Badge color="light">City:</Badge> <text style={{fontFamily:"Times New Roman", marginLeft:18}}> Ankara </text></h3>
-                                        <h3><Badge color="light">Contact:</Badge> <text style={{fontFamily:"Times New Roman", marginLeft:18}}> Ankara </text></h3>
-                                        <h3><Badge color="light">Password:</Badge> <text style={{fontFamily:"Times New Roman", marginLeft:18}}> ********** </text></h3>
+                                        <h3><Badge color="light">Name:</Badge> <text style={{fontFamily:"Times New Roman", marginLeft:25}}>Daniyal Khalil </text></h3>
+                                        <h3><Badge color="light">Age:</Badge> <text style={{fontFamily:"Times New Roman", marginLeft:45}}> 21 </text></h3>
+                                        <h3><Badge color="light">Email:</Badge> <text style={{fontFamily:"Times New Roman", marginLeft:33}}> daniyalkhalil16@gmail.com </text></h3>
+                                        <h3><Badge color="light">County:</Badge> <text style={{fontFamily:"Times New Roman", marginLeft:19}}> Turkey </text></h3>
+                                        <h3><Badge color="light">City:</Badge> <text style={{fontFamily:"Times New Roman", marginLeft:50}}> Ankara </text></h3>
+                                        <h3><Badge color="light">Contact:</Badge> <text style={{fontFamily:"Times New Roman", marginLeft:15}}> +90 507 675 2438 </text></h3>
+                                        <h3><Badge color="light">Password:</Badge> <text style={{fontFamily:"Times New Roman", marginLeft:0}}> ********** </text></h3>
                                     </CardBody>
                                 </Card>
 
